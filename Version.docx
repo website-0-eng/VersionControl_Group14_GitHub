@@ -3,5 +3,6 @@ This document provides an analysis of the key features of this version control p
 (Faran) It allows multiple people to collaborate on the same codebase through branching and merging.
 2. Key Details and Features
 ​The platform's main strength is its robust branching and merging capability. It also features integrated issue tracking and a "Pull Request" system, which is essential for code reviews and ensuring that only quality code is merged into the main branch.
+(Faran) It allows users to create and manage repositories where code can be stored and version-controlled.
 3. Conclusion
 ​In conclusion, this tool is vital for modern software engineering. It provides the necessary structure for teams to work in parallel, manage changes, and maintain a stable and reliable codebase, which was clearly demonstrated in this assignment.
