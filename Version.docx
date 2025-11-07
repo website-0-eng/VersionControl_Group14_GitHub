@@ -1,2 +1,4 @@
 1. Introduction to GitHub
 This document provides an analysis of the key features of this version control platform. The primary goal is to understand how it supports team collaboration and manages complex software projects through its core functionalities.
+2. Key Details and Features
+​The platform's main strength is its robust branching and merging capability. It also features integrated issue tracking and a "Pull Request" system, which is essential for code reviews and ensuring that only quality code is merged into the main branch.
